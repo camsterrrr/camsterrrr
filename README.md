@@ -1,11 +1,7 @@
-# Cameron Oakley
+# About Me
 
-I am an aspiring computer scientist who enjoys to programming and writing software that others could use. When I began pursuing computer science, I was hooked on landing a career as a penetration tester, so cybersecurity was my first love. Now, I would like to pursue a career where I can have a blend of my two interests: sopftware development and cybersecurity.
+I'm a Computer Engineering graduate student at UC Santa Cruz with a passion for software development, cybersecurity, and public service technology. By day, I work as a Senior IT Analyst and Web Administrator for the Monterey County Sheriff's Office, where I manage mission-critical systems, build secure web infrastructure, and support law enforcement operations through reliable, responsive IT.
 
-In my free time, I pursue opportunities for me to develop the skills needed for this kind of career, such as developing software applications and learning the principles of reverse engineering malware. 
+My journey into tech began with a love for cybersecurity—penetration testing was my original goal—and that foundation continues to shape how I build and secure systems today. Whether I'm writing automation scripts, reverse-engineering malware for fun, or deploying infrastructure at scale, I enjoy creating practical solutions that others can rely on.
 
-## Where it all started
-
-Unlike most, I didn't begin programming at an early age, nor was I always interested in computers. I believe I landed in the world of computer science by sheer luck. 
-
-When I graduated high school, I began working at my local Sheriff's Office hoping to make connections for a career in law enforcement. I eventually began helping the IT unit with basic data entry, and this is where I was introduced to computer science.
+I use this space to share personal projects, small tools, and experiments that reflect my ongoing growth as a developer and security-minded engineer.
